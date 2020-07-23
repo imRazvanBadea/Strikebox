@@ -1,10 +1,10 @@
----
+
 <br />
 <p align="center">
     <img src="https://i.imgur.com/uDqVUXv.png?1" alt="Logo" width="70" height="70">
   </a>
 
-<h3 align="center">StrikeBox</h3>
+<h3 align="center">StrikeBox OS</h3>
 
   <p align="center">
      Operating System designed for Digital Forensics and Penetration Testing.
@@ -32,13 +32,13 @@
 
 StrikeBox is a GNU / Linux distribution based on Debian, designed for digital forensics and penetration testing. It features industry-standard tools alongside a modern and intuitive interface that is designed to be user-friendly in order to attract both newcomers and professionals alike.
 
----
+
 
 ## Fast, beautiful & light.
 
 The OS is around 6 GB and thanks to its based distribution (Zorin OS), it is light and working on most specifications. It is also consideribly beautiful with its custom tweaked Gnome Theme.
 
----
+
 
 ## Tools
 
@@ -118,5 +118,3 @@ For the development of this project, we've used the PenTesters Framework (PTF) w
 - Mdk3-master
 
 #### And much, much more...
-
----
